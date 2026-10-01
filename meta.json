@@ -1,0 +1,26 @@
+{
+  "repo": "adobe-indesign-full",
+  "product": "Adobe InDesign Full",
+  "kind": "creative",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zaliv-part3",
+  "format": "license-md-zentool-v1-no-banner",
+  "category": "graphic-design",
+  "topics": [
+    "adobe-indesign-full",
+    "adobe-desktop",
+    "adobe-windows",
+    "graphic-design",
+    "template-editing",
+    "brand-assets",
+    "social-media-design",
+    "desktop-design",
+    "windows-creative",
+    "visual-content",
+    "layout-tools",
+    "design-workspace",
+    "creative-suite"
+  ],
+  "site": "zentool.art"
+}
